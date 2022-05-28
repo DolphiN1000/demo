@@ -1,0 +1,8 @@
+# папки і файли які не видно гідхаб
+.vscode
+.idea
+.DS_Store
+node_modules
+.env
+bouild/
+*.psd
